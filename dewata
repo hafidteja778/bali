@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "crew.php";
-echo color("blue"," ===========================\n");
+echo color("blue"," ∆ ∆ ∆ ∆ ∆ ∆ ∆ ∆ ∆ ∆ ∆ \n");
 echo color("red","| MAIN OJOK MAGAK |\n");
 echo color("green","| A U T O  C L A I M |\n");
 echo color("green","| Github: HAFID TEJA |\n");
@@ -9,7 +9,7 @@ echo color("green","| Fanspage :HAFIDTEJA|\n");
 echo color("green","| Creator : HAFIDTEJA.com          |\n");
 echo "| Version : 2020      |\n";
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
-echo " ===========================\n";
+echo " ∆ ∆ ∆ ∆ ∆ ∆ ∆ ∆ ∆ ∆ ∆ ∆ \n";
 // function change(){
         $nama = nama();
         $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
